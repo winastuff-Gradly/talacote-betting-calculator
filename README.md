@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="111111111111111111111" src="https://github.com/user-attachments/assets/d55b926a-0faa-4aac-981d-cc427303f0bf" />
 # Talacote – Sports Betting Calculator
 
 Talacote is a free online sports betting calculator designed to simulate accumulator bets and calculate potential winnings instantly.
