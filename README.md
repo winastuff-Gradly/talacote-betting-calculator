@@ -11,7 +11,6 @@ Talacote is a free online sports betting calculator designed to simulate accumul
 - No signup required
 
 ## 🌍 Try it online
-👉 https://talacote.com<img width="1584" height="873" alt="talacote558327" src="https://github.com/user-attachments/assets/b847fc02-6626-4264-b053-2801ce1228b7" />
 
 
 ## 💡 Why Talacote?
